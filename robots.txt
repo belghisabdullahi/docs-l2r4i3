@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://belghisabdullahi.github.io/docs-l2r4i3/sitemap.xml
